@@ -1,0 +1,10 @@
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\bin\Debug\CalculadoraDeSalario.exe.config
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\bin\Debug\CalculadoraDeSalario.exe
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\bin\Debug\CalculadoraDeSalario.pdb
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\obj\Debug\CalculadoraDeSalario.csproj.AssemblyReference.cache
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\obj\Debug\CalculadoraDeSalario.Form1.resources
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\obj\Debug\CalculadoraDeSalario.Properties.Resources.resources
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\obj\Debug\CalculadoraDeSalario.csproj.GenerateResource.cache
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\obj\Debug\CalculadoraDeSalario.csproj.CoreCompileInputs.cache
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\obj\Debug\CalculadoraDeSalario.exe
+D:\clases\Análisis y Desarollo de Software\Maristela\CalculadoraDeSalario\CalculadoraDeSalario\obj\Debug\CalculadoraDeSalario.pdb
